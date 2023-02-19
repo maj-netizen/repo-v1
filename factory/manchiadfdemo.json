@@ -1,0 +1,9 @@
+{
+	"name": "manchiadfdemo",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "0fe4efdd-5203-44f3-b438-b0efeb6a1bc5",
+		"tenantId": "c266e4b0-d39b-482e-89af-6a73574f33b7"
+	}
+}
