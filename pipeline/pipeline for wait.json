@@ -1,17 +1,6 @@
 {
 	"name": "pipeline for wait",
 	"properties": {
-		"activities": [
-			{
-				"name": "Wait for 2sec",
-				"type": "Wait",
-				"dependsOn": [],
-				"userProperties": [],
-				"typeProperties": {
-					"waitTimeInSeconds": 1
-				}
-			}
-		],
 		"annotations": []
 	}
 }
